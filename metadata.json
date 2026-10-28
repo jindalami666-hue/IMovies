@@ -1,0 +1,6 @@
+{
+  "name": "IMovies – Movie Ticket Booking System",
+  "description": "Full-stack MERN movie ticket booking platform with real-time seat selection, showtime scheduling, JWT authentication, and MongoDB Atlas persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
